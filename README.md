@@ -6,7 +6,7 @@
 ### Installation 
 
 ```
-$ git clone https://github.com/hsynran/ethereum-wallet-react-native.git
+$ git clone https://github.com/cybermage5/WALLET-REACT-NATIVE.git
 $ cd ethereum-wallet-react-native
 $ npm install
 $ npm run ios || npm run android
